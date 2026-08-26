@@ -1,0 +1,5 @@
+Version: 1.9
+Cambios: Se corrigió el error que hacía que la información de la actualización fuese diferente de la que aparece previamente a la que encuentran en la sección de ajustes.
+Ahora, la tienda les pedirá confirmación en el momento que quieran instalar, desinstalar, actualizar una herramienta.
+Mejoras en la experiencia de usuario.
+---
