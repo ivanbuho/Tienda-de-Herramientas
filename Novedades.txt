@@ -1,3 +1,7 @@
+Titulo: Probando.
+Fecha: 27 de Agosto.
+Mensaje: Estamos haciendo múltiples pruebas para verificar el funcionamiento de la tienda.
+---
 Titulo: Velocidad.
 Fecha: 27 de Agosto De 2026.
 Mensaje: En este momento nos encontramos perfeccionando el cambio de proveedor, para una velocidad y estabilidad mayor.
