@@ -1,6 +1,3 @@
-Version: 2.2
-Cambios: Ahora la tienda es más rápida.
-Pruebas.
-Se corrigieron errores que causaban sensación de pegado o congelación de la interfaz.
-Estabilidad total.
+Version: 2.3
+Cambios: Se agregó soporte de avisos en la sección de inicio.
 ---
