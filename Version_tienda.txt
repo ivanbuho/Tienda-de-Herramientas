@@ -1,5 +1,6 @@
-Version: 2.1
+Version: 2.2
 Cambios: Ahora la tienda es más rápida.
+Pruebas.
 Se corrigieron errores que causaban sensación de pegado o congelación de la interfaz.
 Estabilidad total.
 ---
