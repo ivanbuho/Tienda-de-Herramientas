@@ -1,4 +1,4 @@
 Titulo: ¡Nuevo creador disponible!
 Mensaje: Ya puedes explorar las herramientas de Iván Búho en la sección de abajo.
-Activo: si
+Activo: Si
 ---
