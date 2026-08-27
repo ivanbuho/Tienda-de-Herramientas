@@ -3,5 +3,5 @@ Descripcion: Creador de la Tienda De Herramientas.
 Desarroyo facilidades accesibles para el lector de pantalla Jieshuo.
 Además, soy creador de la comunidad Crónicas Accesibles, un espacio para la educación y proyectos de gran impacto.
 Id: ivan_buho
-Url_zip: https://www.dropbox.com/scl/fi/1e8nsku9dd0y2z6qvkyil/Iv-n-B-ho.zip?rlkey=xm4w7dotapunq0iriyrdcm0og&st=dm4if20t&dl=1
+Url_zip: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Cat%C3%logo/Iv%C3%A1n%20B%C3%BAho.zip
 ---
