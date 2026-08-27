@@ -1,9 +1,8 @@
-version_tienda: 2.0
 enlace_version_txt: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Version_tienda.txt
 ---
 enlace_novedades_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Novedades.txt
 ---
 enlace_creadores_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Creadores.txt
 ---
-enlace_actualizador_lua: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Version_tienda.txt
+enlace_actualizador_lua: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Tienda.lua
 ---
