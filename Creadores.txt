@@ -2,6 +2,7 @@ Nombre: Iván Búho
 Descripcion: Creador de la Tienda De Herramientas.
 Desarroyo facilidades accesibles para el lector de pantalla Jieshuo.
 Además, soy creador de la comunidad Crónicas Accesibles, un espacio para la educación y proyectos de gran impacto.
+Saludos.
 Id: ivan_buho
 Url_zip: github.com/ivanbuho/Tienda-de-Herramientas/blob/main/Catálogo/Iván%20Búho.zip
 ---
