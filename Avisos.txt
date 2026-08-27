@@ -1,5 +1,5 @@
 titulo: Atención.
 mensaje: en pocas horas una noticia importante dirigida a creadores de contenido en la plataforma de tik Tok.
 deben estar atentos a el canal de crónicas accesibles en Telegram.
-activo: si
+activo: no
 ---
