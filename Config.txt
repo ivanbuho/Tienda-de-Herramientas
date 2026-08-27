@@ -1,3 +1,5 @@
+enlace_avisos_txt: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Avisos.txt
+---
 enlace_version_txt: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Version_tienda.txt
 ---
 enlace_novedades_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Novedades.txt
