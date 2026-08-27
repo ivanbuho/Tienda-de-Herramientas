@@ -1,6 +1,5 @@
-titulo: Atención.
-mensaje: El equipo de Crónicas Accesibles estará evaluando nuevos ingresos a la Tienda.
-En el grupo de Telegram de la comunidad podrán encontrar la información.
-Disponible hasta la vigencia de esta notificación.
-activo: no
+titulo: Ya disponible la versión 2.4.
+mensaje: en esta nueva versión se optimizó la carga de elementos.
+saben que en el Canal de Telegram pueden comentar sobre funcionalidades que quisieran ver.
+activo: si
 ---
