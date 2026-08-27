@@ -2,5 +2,5 @@ titulo: Accesos limitados.
 mensaje: El equipo de Crónicas Accesibles estará evaluando nuevos ingresos a la Tienda.
 En el grupo de Telegram de la comunidad podrán encontrar la información.
 Disponible hasta la vigencia de esta notificación.
-activo: no
+activo: si
 ---
