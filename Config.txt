@@ -4,5 +4,5 @@ enlace_novedades_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herra
 ---
 enlace_creadores_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Creadores.txt
 ---
-enlace_actualizador_lua: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Tienda.lua
+enlace_actualizador_lua: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Tienda.lua
 ---
