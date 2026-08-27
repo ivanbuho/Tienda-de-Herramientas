@@ -1,5 +1,5 @@
 titulo: Ya disponible la versión 2.4.
 mensaje: en esta nueva versión se optimizó la carga de elementos.
 saben que en el Canal de Telegram pueden comentar sobre funcionalidades que quisieran ver.
-activo: si
+activo: no
 ---
