@@ -1,3 +1,8 @@
+Titulo: Concurso - Canta tu historia.
+Fecha: 27 de Agosto 2026.
+Mensaje: Tu historia tiene ritmo: demuéstralo con tu voz.
+Inscríbete en los siguientes canales de atención.
+---
 Titulo: Vetatester.
 Fecha: 27 de Agosto 2026.
 Mensaje: Gracias por estar aquí haciendo testeos generales de nuestra tienda. Esperamos que sea un proyecto de gran impacto y, sobre todo, que sientan la fluidez y la experiencia de usuario tipo aplicación.
