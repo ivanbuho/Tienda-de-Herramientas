@@ -1,4 +1,6 @@
-Titulo: ¡Nuevo creador disponible!
-Mensaje: Ya puedes explorar las herramientas de Iván Búho en la sección de abajo.
+Titulo: Por tiempo limitado.
+Mensaje: El equipo de Crónicas Accesibles estará evaluando nuevos ingresos a la Tienda.
+En el grupo de Telegram de la comunidad podrán encontrar la información.
+Disponible hasta la vigencia de esta notificación.
 Activo: Si
 ---
