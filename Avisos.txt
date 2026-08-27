@@ -1,5 +1,5 @@
-titulo: Ya disponible la versión 2.4.
-mensaje: en esta nueva versión se optimizó la carga de elementos.
-saben que en el Canal de Telegram pueden comentar sobre funcionalidades que quisieran ver.
-activo: no
+titulo: Atención.
+mensaje: en pocas horas una noticia importante dirigida a creadores de contenido en la plataforma de tik Tok.
+deben estar atentos a el canal de crónicas accesibles en Telegram.
+activo: si
 ---
