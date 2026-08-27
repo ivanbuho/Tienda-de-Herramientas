@@ -1,12 +1,5 @@
-Titulo: Probando.
-Fecha: 27 de Agosto.
-Mensaje: Estamos haciendo múltiples pruebas para verificar el funcionamiento de la tienda.
----
-Titulo: Velocidad.
-Fecha: 27 de Agosto De 2026.
-Mensaje: En este momento nos encontramos perfeccionando el cambio de proveedor, para una velocidad y estabilidad mayor.
----
-Titulo: Cambios de lógica de código.
-Fecha: 26 de Agosto De 2026. 10:10PM.
-Mensaje: intermitencias temporales.
+Titulo: Vetatester.
+Fecha: 27 de Agosto 2026.
+Mensaje: Gracias por estar aquí haciendo testeos generales de nuestra tienda. Esperamos que sea un proyecto de gran impacto y, sobre todo, que sientan la fluidez y la experiencia de usuario tipo aplicación.
+
 ---
