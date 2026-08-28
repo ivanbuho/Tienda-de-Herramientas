@@ -2,5 +2,5 @@ titulo: Convocatoria.
 mensaje: Canta tu historia.
 Creado por la comunidad; ciegos sin luz.
 Inscríbete ya. Más info en novedades.
-activo: si
+activo: no
 ---
