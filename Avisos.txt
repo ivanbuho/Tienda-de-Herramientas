@@ -1,4 +1,4 @@
 titulo: Atención.
 mensaje: : En este momento la tienda se encuentra en mantenimiento, por lo que podrás notar interrupciones en el servicio.
-activo: no
+activo: si
 ---
