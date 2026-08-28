@@ -1,4 +1,5 @@
-Version: 2.6.2
+Version: 2.7
 cambios:
+Mayor fluidez en la carga de las herramientas de los creadores.
 Ahora la sección de términos y condiciones, se muestra en bloques independientes, mejorando la lectura de los mismos.
 ---
