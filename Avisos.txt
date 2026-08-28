@@ -1,6 +1,4 @@
-titulo: Convocatoria.
-mensaje: Canta tu historia.
-Creado por la comunidad; ciegos sin luz.
-Inscríbete ya. Más info en novedades.
-activo: no
+titulo: Atención.
+mensaje: : En este momento la tienda se encuentra en mantenimiento, por lo que podrás notar interrupciones en el servicio.
+activo: si
 ---
