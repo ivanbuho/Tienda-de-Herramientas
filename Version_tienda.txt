@@ -1,4 +1,3 @@
-Version: 2.4
-Cambios: Se agregó soporte de avisos en la sección de inicio.
-Correcciones en la mejora de carga de elementos.
+Version: 2.6
+cambios: Se agregó soporte de términos y condiciones; los encontrarán en la sección de ajustes.
 ---
