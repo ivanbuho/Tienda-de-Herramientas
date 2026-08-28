@@ -8,3 +8,5 @@ enlace_creadores_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herra
 ---
 enlace_actualizador_lua: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/Tienda.lua
 ---
+enlace_terminos_txt: https://raw.githubusercontent.com/ivanbuho/Tienda-de-Herramientas/refs/heads/main/T%C3%A9rminos.txt
+---
