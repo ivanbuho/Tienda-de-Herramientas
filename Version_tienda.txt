@@ -1,4 +1,4 @@
-Version: 2.6.1
+Version: 2.6.2
 cambios:
 Ahora la sección de términos y condiciones, se muestra en bloques independientes, mejorando la lectura de los mismos.
 ---
