@@ -1,3 +1,4 @@
-Version: 2.6
-cambios: Se agregó soporte de términos y condiciones; los encontrarán en la sección de ajustes.
+Version: 2.6.1
+cambios:
+Ahora la sección de términos y condiciones, se muestra en bloques independientes, mejorando la lectura de los mismos.
 ---
