@@ -4,5 +4,5 @@ Desarroyo facilidades accesibles para el lector de pantalla Jieshuo.
 Además, soy creador de la comunidad Crónicas Accesibles, un espacio para la educación y proyectos de gran impacto.
 Saludos.
 Id: ivan_buho
-Url_herramientas: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Ivanbuho/Herramientas.txt
+Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Ivanbuho/Herramientas.txt
 ---
