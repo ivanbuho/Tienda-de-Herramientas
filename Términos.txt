@@ -1,2 +1,29 @@
-titulo: Términos hoy.
-contenido: Estos son nuestros términos y condiciones de la tienda.
+titulo: Términos y Condiciones de la Tienda de Herramientas.
+contenido:
+Bienvenido a la Tienda de Herramientas, un espacio diseñado para facilitar y acelerar la descarga y actualización de complementos para el lector de pantalla Jieshuo.
+
+Al utilizar esta tienda, aceptas los siguientes términos y condiciones.
+
+1. Naturaleza de la tienda.
+   Esta tienda actúa como un punto de encuentro entre creadores de complementos y usuarios. Su función principal es agilizar el proceso de descarga, instalación y actualización de los complementos publicados.
+
+2. Responsabilidad de los creadores.
+   Cada complemento disponible en la tienda es desarrollado y mantenido por su respectivo creador. Los creadores son los únicos responsables del contenido, funcionamiento, calidad y seguridad de sus propias herramientas. La tienda no interviene en el desarrollo interno de los complementos.
+
+3. Criterios de selección.
+   La tienda procura aplicar criterios de selección para proteger la seguridad y la experiencia de los usuarios. Sin embargo, no podemos garantizar que todos los complementos estén libres de errores, vulnerabilidades o comportamientos no deseados.
+
+4. Exención de responsabilidad.
+   La tienda, sus administradores y colaboradores no se hacen responsables de ningún daño directo, indirecto, incidental o consecuente que pudiera derivarse del uso de los complementos descargados a través de este servicio. El usuario asume toda responsabilidad al instalar y utilizar cualquier herramienta.
+
+5. Verificación por parte del usuario.
+   Siempre verifica la herramienta, su descripción y su creador antes de instalar cualquier complemento. Revisa los cambios, la versión y los comentarios disponibles. Si algo te genera dudas, no lo instales y contacta directamente con el creador.
+
+6. Contacto con los creadores.
+   Cualquier petición, sugerencia, duda o problema relacionado con un complemento debe ser dirigido directamente al creador correspondiente, a través de sus propios canales de comunicación, fuera de la Tienda de Herramientas. La tienda no gestiona soporte técnico de los complementos individuales.
+
+7. Modificaciones.
+   Estos términos pueden ser actualizados en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en este mismo archivo. Se recomienda revisar periódicamente esta sección.
+
+Si tienes alguna pregunta sobre estos términos, puedes contactar con la administración de la tienda a través de los canales oficiales.
+---
