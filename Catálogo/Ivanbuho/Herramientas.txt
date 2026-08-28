@@ -1,1 +1,35 @@
-
+Nombre: Grabadora Flash
+Version: 1.1
+Autor: Iván Búho
+Ejecutable: Grabadora_Flash.lua
+Descripcion: Con esta grabadora podrás grabar audio en alta calidad; cuenta con compatibilidad total con Android, sacando el mejor provecho de grabación real del sistema.
+Otras herramientas te ofrecen un montón de formatos de grabación que directamente son solo recubrimientos y reconversiones que bajan bastante la calidad del resultado. En esta grabadora podrás encontrar los únicos formatos soportados por el sistema Android a través de Scripts externos.
+Nota - En estas herramientas no se puede grabar MP3.
+Cambios: Se agregó la opción para que puedas crear subcarpetas dependiendo el día en el que grabes.
+Si esta opción está activada en la configuración, se creará una subcarpeta con la fecha actual, si está desactivada, se seguirán guardando las grabaciones normales en el directorio principal.
+---
+Nombre: Dictado Flash - Mistral
+Version: 1.0
+Autor: Iván Búho
+Ejecutable: Dictado_Flash_Mistral.lua
+Descripcion: Dictado por voz con el proveedor Mistral.
+Esta herramienta cuenta con varias opciones de configuración, entre ellas el uso de comandos por voz.
+Podrán encontrar comandos como, limpiar o borrar, que cuando lo usan, se limpia el cuadro de edición, copiar todo, entre otros comandos que mejorarán la interacción con la Inteligencia artificial.
+Cambios: 
+---
+Nombre: Ruleta Flash
+Version: 1.0
+Autor: Iván Búho
+Ejecutable: Ruleta_Flash.lua
+Descripcion: Con nuestra ruleta flash podrás divertirte haciendo sorteos, dinámicas, premiaciones, o simplemente para pasar el rato con una herramienta que te muestra resultados aleatorios y muy rápidos.
+Tiene una configuración fácil de entender para que la adapten a sus necesidades.
+Cambios: 
+---
+Nombre: Accesos Directos Flash
+Version: 1.0
+Autor: Iván Búho
+Ejecutable: Accesos_Directos_Flash.lua
+Descripcion: Este complemento te permite guardar enlaces de una manera fácil y sencilla, para posteriormente abrirlos a través de un botón.
+Cuenta con almacenamiento interno para que los datos se guarden en el dispositivo y no pierdas tus enlaces guardados.
+Cambios: 
+---
