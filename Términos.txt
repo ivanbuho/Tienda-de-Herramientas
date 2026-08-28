@@ -1,1 +1,2 @@
-
+titulo: Términos hoy.
+contenido: Estos son nuestros términos y condiciones de la tienda.
