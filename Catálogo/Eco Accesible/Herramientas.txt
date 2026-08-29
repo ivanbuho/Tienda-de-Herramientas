@@ -2,6 +2,11 @@ Nombre: Dictado Argento
 Version: 2.0
 Autor: Eco Accesible
 Ejecutable: dictado_argento.lua
-Descripcion: Bueno bonito y barato.
+Descripcion: Dictado Argento - Escribí como hablás.
+¿Cansado de escribir letra por letra? Con Dictado Argento solo tenés que hablar.
+Vos dictás y él escribe por vos. Ubica automáticamente el cuadro de edición y plasma al instante todo lo que decís.
+Es rápido y preciso.
+¿Primera vez? Al ejecutarlo decí "tutorial" y te abre el manual de uso completo.
+Dictado Argento. Decilo, y listo.
 Cambios: 
 ---
