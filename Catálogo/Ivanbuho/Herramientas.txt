@@ -13,6 +13,7 @@ Ahora cuando pausas una grabación te deja ver previamente de cuánto es la dura
 Se agregaron sonidos y vibración, opcionales desde la configuración.
 Se agregó la opción para que puedas crear subcarpetas dependiendo el día en el que grabes.
 Si esta opción está activada en la configuración, se creará una subcarpeta con la fecha actual, si está desactivada, se seguirán guardando las grabaciones normales en el directorio principal.
+Agradecimiento a leo de la comunidad Eco Guia y Eco Accesible, por la sintaxis de compartir.
 ---
 Nombre: Editor de texto Flash
 Version: 1.0
