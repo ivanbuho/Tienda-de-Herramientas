@@ -1,0 +1,7 @@
+Nombre: Dictado Argento
+Version: 2.0
+Autor: Eco Accesible
+Ejecutable: dictado_argento.lua
+Descripcion: Bueno bonito y barato.
+Cambios: 
+---
