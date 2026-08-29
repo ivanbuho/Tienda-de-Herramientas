@@ -8,6 +8,16 @@ Nota - En estas herramientas no se puede grabar MP3.
 Cambios: Se agregó la opción para que puedas crear subcarpetas dependiendo el día en el que grabes.
 Si esta opción está activada en la configuración, se creará una subcarpeta con la fecha actual, si está desactivada, se seguirán guardando las grabaciones normales en el directorio principal.
 ---
+Nombre: Editor de texto Flash
+Version: 1.0
+Autor: Iván Búho
+Ejecutable: editor_de_texto_flash.lua
+Descripcion: Con este complemento podrás editar tus textos de manera fácil y sencilla.
+Tiene una interfaz perfectamente intuitiva, con opciones avanzadas de configuración.
+Podrás fragmentar tu texto por caracteres, palabras, líneas, párrafos, además identificar si hay enlaces.
+Tendrás opciones adicionales como copiar, un botón dinámico de eliminación, que si está activado, con un solo toque en un bloque lo eliminarás; si está desactivado, te permitirá con un solo toque editar el bloque.
+Cambios: 
+---
 Nombre: Dictado Flash - Mistral
 Version: 1.0
 Autor: Iván Búho
