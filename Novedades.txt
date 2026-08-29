@@ -1,5 +1,4 @@
 Titulo: Nuevo complemento.
-Fecha: 
 Mensaje: Ivanbuho Les presenta el editor de texto flash; pueden ir a su perfil para que exploren la herramienta.
 ---
 titulo: Actualización importante de la tienda.
