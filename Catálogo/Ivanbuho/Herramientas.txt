@@ -1,11 +1,17 @@
 Nombre: Grabadora Flash
-Version: 1.1
+Version: 1.2
 Autor: Iván Búho
 Ejecutable: Grabadora_Flash.lua
 Descripcion: Con esta grabadora podrás grabar audio en alta calidad; cuenta con compatibilidad total con Android, sacando el mejor provecho de grabación real del sistema.
 Otras herramientas te ofrecen un montón de formatos de grabación que directamente son solo recubrimientos y reconversiones que bajan bastante la calidad del resultado. En esta grabadora podrás encontrar los únicos formatos soportados por el sistema Android a través de Scripts externos.
 Nota - En estas herramientas no se puede grabar MP3.
-Cambios: Se agregó la opción para que puedas crear subcarpetas dependiendo el día en el que grabes.
+Cambios: Redistribución de la interfaz, mejoras de rendimiento.
+Se corrigió el error que hacía que cuando reanudaras la grabación, se iniciara una nueva.
+Se distribuyó la lista de opciones en la sección de configuración.
+Ahora encontrarán opciones de compartir la grabación, abrir directamente la carpeta de archivos, renombrar la grabación, entre otras configuraciones.
+Ahora cuando pausas una grabación te deja ver previamente de cuánto es la duración.
+Se agregaron sonidos y vibración, opcionales desde la configuración.
+Se agregó la opción para que puedas crear subcarpetas dependiendo el día en el que grabes.
 Si esta opción está activada en la configuración, se creará una subcarpeta con la fecha actual, si está desactivada, se seguirán guardando las grabaciones normales en el directorio principal.
 ---
 Nombre: Editor de texto Flash
