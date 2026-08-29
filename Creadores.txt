@@ -6,8 +6,3 @@ Saludos.
 Id: ivan_buho
 Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Ivanbuho/Herramientas.txt
 ---
-Nombre: Eco Accesible
-Descripcion: Pendiente
-Id: eco_accesible
-Url_zip: Http
----
