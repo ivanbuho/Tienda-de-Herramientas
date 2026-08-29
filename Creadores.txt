@@ -6,3 +6,8 @@ Saludos.
 Id: ivan_buho
 Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Ivanbuho/Herramientas.txt
 ---
+Nombre: Eco Accesible
+Descripcion: Somos Leo r y Misterr plugin, miembros de la comunidad eco accesible. Somos creadores de complementos diseñados para hacer su vida más accesible.
+Id: eco_accesible
+Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Eco%20Accesible/Herramientas.txt
+---
