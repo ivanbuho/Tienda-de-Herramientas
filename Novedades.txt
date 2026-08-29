@@ -1,2 +1,6 @@
+Titulo: Nuevo complemento.
+Fecha: 
+Mensaje: Ivanbuho Les presenta el editor de texto flash; pueden ir a su perfil para que exploren la herramienta.
+---
 titulo: Actualización importante de la tienda.
 mensaje: En la sección de ajustes van a encontrar los términos y condiciones que rigen nuestra tienda de herramientas; es importante que lean, y que tengan en cuenta. Saludos, soy IvanBuho.
