@@ -25,3 +25,18 @@ Escanea la pantalla activa y ejecuta un clic inmediato sobre el primer botón de
 ​Ideal para asignar a un gesto y aceptar cuadros de diálogo, permisos o confirmaciones en un solo segundo.
 Cambios: 
 ---
+Nombre: Encontrar botones de cancelación
+Version: 1.0
+Autor: Eco Accesible
+Ejecutable: encontrar_botones_de_cancelacion.lua
+Descripcion: Complemento para el lector de pantalla Jieshuo diseñado para agilizar la navegación detectando y pulsando automáticamente botones de rechazo, salida o cancelación en cualquier aplicación.
+​¿Qué hace este complemento?
+Escanea la pantalla activa y ejecuta un clic inmediato sobre el primer botón de cancelación que encuentre, evitando tener que explorar manualmente toda la interfaz.
+​Características principales:
+Búsqueda en español: Detecta términos habituales como No, Cancelar, Cerrar, Ahora no, Después, Omitir, No gracias, Descartar, Quitar, Salir y más.
+Soporte en inglés e identificadores: Localiza botones en inglés (No, Cancel, Close, Skip, Dismiss) e IDs internos de programación (no_button, close_button, cancel_button, etc.).
+Reconocimiento flexible: Coincide con textos exactos o palabras contenidas dentro de frases compuestas.
+Retroalimentación por voz: Confirma la ejecución anunciando "Cancelado" o avisa con "Nada que cancelar" si no hay coincidencias a la vista.
+​Ideal para asignar a un gesto y desestimar cuadros de diálogo, avisos emergentes o confirmaciones en un solo segundo.
+Cambios: 
+---
