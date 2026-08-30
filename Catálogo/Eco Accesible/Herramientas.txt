@@ -10,3 +10,18 @@ Es rápido y preciso.
 Dictado Argento. Decilo, y listo.
 Cambios: 
 ---
+Nombre: Encontrar botones de confirmación
+Version: 1.0
+Autor: Eco Accesible
+Ejecutable: encontrar_botones_de_confirmacion.lua
+Descripcion: ​Complemento para el lector de pantalla Jieshuo diseñado para agilizar la navegación detectando y pulsando automáticamente botones de acción o confirmación en cualquier aplicación.
+​¿Qué hace este complemento?
+Escanea la pantalla activa y ejecuta un clic inmediato sobre el primer botón de confirmación que encuentre, evitando tener que explorar manualmente toda la interfaz.
+​Características principales:
+​Búsqueda en español: Detecta términos habituales como Aceptar, Confirmar, Enviar, Guardar, Permitir, Continuar, Siguiente, Sí, De acuerdo y más.
+​Soporte en inglés e identificadores: Localiza botones en inglés (Confirm, Yes, Next, Done, Submit) e IDs internos de programación (confirm_button, yes_button, etc.).
+​Reconocimiento flexible: Coincide con textos exactos o palabras contenidas dentro de frases compuestas.
+​Retroalimentación por voz: Confirma la ejecución anunciando "Ejecutado" o avisa con "Acción no encontrada" si no hay coincidencias a la vista.
+​Ideal para asignar a un gesto y aceptar cuadros de diálogo, permisos o confirmaciones en un solo segundo.
+Cambios: 
+---
