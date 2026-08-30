@@ -1,3 +1,10 @@
+Nombre: Gestor Eco Accesible
+Version: 0.1
+Autor: Eco Accesible
+Ejecutable: gestor_eco_accesible
+Descripcion: Con este complemento podrás gestionar tus aplicaciones, extraer sus actividades y sonidos, así como compartir enlaces, incluyendo su APK.
+Cambios: 
+---
 Nombre: Dictado Argento
 Version: 2.0
 Autor: Eco Accesible
