@@ -1,9 +1,0 @@
-titulo: Nueva actualización de la grabadora flash.
-mensaje: Versión 1.2 de la grabadora flash por el creador Ivánbuho.
-Vayan a su perfil a verificar lo que trae esta nueva actualización.
----
-Titulo: Nuevo complemento.
-Mensaje: Ivanbuho Les presenta el editor de texto flash; pueden ir a su perfil para que exploren la herramienta.
----
-titulo: Actualización importante de la tienda.
-mensaje: En la sección de ajustes van a encontrar los términos y condiciones que rigen nuestra tienda de herramientas; es importante que lean, y que tengan en cuenta. Saludos, soy IvanBuho.
