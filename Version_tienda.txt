@@ -1,5 +1,4 @@
-Version: 2.7
+Version: 2.7.2
 cambios:
-Mayor fluidez en la carga de las herramientas de los creadores.
-Ahora la sección de términos y condiciones, se muestra en bloques independientes, mejorando la lectura de los mismos.
+Se corrigió un error en la lógica que hacía que usuarios en idioma español de españa no pudiesen instalar los complementos.
 ---
