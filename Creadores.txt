@@ -11,3 +11,8 @@ Descripcion: Somos Leo r y Misterr plugin, miembros de la comunidad eco accesibl
 Id: eco_accesible
 Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Eco%20Accesible/Herramientas.txt
 ---
+Nombre: Jieshuo Blues
+Descripcion: Sou Dr mario, criador da comunidade Jieshuo Blues, dedicada à acessibilidade. Desenvolvo plugins para Jieshuo, criando ferramentas de leitura, áudio, câmera, contatos e produtividade, com o objetivo de facilitar o uso do Android por pessoas com deficiência visual.
+Id: jieshuo_blues
+Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Jieshuo%20Blues/Herramientas.txt
+---
