@@ -1,5 +1,7 @@
 titulo: Términos y Condiciones de la Tienda de Herramientas.
 contenido:
+Proyecto creado por la comunidad crónicas accesibles.
+Equipo de trabajo - ivanbuho. Vilmaluzmedina. Mercy, M El Huracán. Javier, Logo de asís.
 Bienvenido a la Tienda de Herramientas, un espacio diseñado para facilitar y acelerar la descarga y actualización de complementos para el lector de pantalla Jieshuo.
 
 Al utilizar esta tienda, aceptas los siguientes términos y condiciones.
