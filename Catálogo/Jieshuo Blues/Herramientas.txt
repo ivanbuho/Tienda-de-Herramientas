@@ -1,1 +1,7 @@
-si
+Nombre: Contatos
+Version: 1.0
+Autor: Jieshuo Blues
+Ejecutable: contatos.lua
+Descripcion: Gerencie contatos com chamadas, WhatsApp, histórico, favoritos, notas, tags, grupos, busca por voz e discagem. Interface acessível, 16 idiomas e canais Telegram. Ideal para produtividade e inclusão.
+Cambios: 
+---
