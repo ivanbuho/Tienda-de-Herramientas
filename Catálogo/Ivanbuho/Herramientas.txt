@@ -1,7 +1,7 @@
 Nombre: CommenTik Flash
 Version: 1.6
 Autor: Iván Búho
-Ejecutable: commentik_flash
+Ejecutable: commentik_flash.lua
 Descripcion: Este es el acceso del lector de comentarios de transmisiones en vivo de TikTok. Simplemente ejecútalo mientras estás en una transmisión en vivo y estés visualizando los comentarios. Lo que hará es empezar a leer los comentarios de manera secuencial y ordenada para que puedas disfrutar tu transmisión interactuando con tus espectadores. Funciona de manera independiente, aunque es recomendable que también instales el panel para que lo configures, ya que este es un acceso directo, el cual activa y desactiva la lectura y, por lo tanto, lo podrás asignar a un gesto.
 La experiencia es como si usaras el Tik Finity, pero sin configuraciones molestas ni nombres de usuario.
 En el Canal de Crónicas Accesibles en Telegram encontrarás un tutorial de uso que está en el perfil de ivanbuho en TikTok.
@@ -10,7 +10,7 @@ Cambios:
 Nombre: Panel CommenTik Flash
 Version: 1.6
 Autor: Iván Búho
-Ejecutable: panel_commentik_flash
+Ejecutable: panel_commentik_flash.lua
 Descripcion: Este es el panel de nuestro lector de comentarios de TikTok, desde aquí podrás configurar opciones como plantilla de lectura, filtrado de palabras, sintetizador de voz, velocidad de lectura de regalos, personas que te siguen, etcétera. Es indispensable si deseas configurar el acceso directo del lector de comentarios.
 Recomendación; Cuando ejecutes el panel para configurar o cambiar una configuración del lector de comentarios, tienes que previamente tener desactivado el acceso directo para que se apliquen las configuraciones. Una vez hagas las configuraciones y dess a guardar, puedes activar nuevamente el lector de comentarios a través del otro acceso.
 Cambios: 
