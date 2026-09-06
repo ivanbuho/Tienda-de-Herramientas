@@ -1,1 +1,487 @@
-=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
+require "import"
+import "android.os.Handler"
+import "android.os.Looper"
+import "android.content.Context"
+import "android.speech.tts.TextToSpeech"
+import "java.io.File"
+import "android.os.Environment"
+import "java.util.HashMap"
+import "java.lang.Thread"
+import "java.lang.Runnable"
+import "java.net.URL"
+import "java.net.HttpURLConnection"
+import "java.io.BufferedReader"
+import "java.io.InputStreamReader"
+import "android.util.Base64"
+import "java.lang.String"
+
+-- ===================================================================
+-- COMMENTIK FLASH - ACCESO DIRECTO (LECTOR EN VIVO)
+-- Versión: 1.7
+-- Desarrollo: Iván Búho | Comunidad: Crónicas Accesibles
+-- Marca de Agua: CommenTik Flash
+-- ===================================================================
+
+local URL_MAESTRA = "https://www.dropbox.com/scl/fi/ygudhpngjoed4u9hjisv7/id_maestro.txt?rlkey=h5szrxlxjgl9gqsb4ms9yt208&st=xmrljn8g&dl=1"
+
+local function obtenerRutaConfig()
+    local root = Environment.getExternalStorageDirectory().getAbsolutePath()
+    local dir = File(root .. "/accesibilidad con ivanbuho/CommenTik Flash")
+    if not dir.exists() then pcall(function() dir.mkdirs() end) end
+    return dir.getAbsolutePath() .. "/config.txt"
+end
+
+local function cargarConfiguracion()
+    local cfg = { 
+        PLANTILLA = "{usuario} dice: {comentario}", 
+        MAX_COLA = 10, 
+        TIEMPO_BASE = 2000, 
+        TTS = "default",
+        FILTRO_REPETICION = "false",
+        LISTA_NEGRA = "",
+        TTS_VEL = 1.0,
+        TTS_VOL = 1.0,
+        ANUNCIAR_SEGUIDORES = "false",
+        ANUNCIAR_REGALOS = "false",
+        ANUNCIAR_UNIONES = "false",
+        ANUNCIAR_COMPARTIDAS = "false"
+    }
+    pcall(function()
+        local f = io.open(obtenerRutaConfig(), "r")
+        if f then
+            for line in f:lines() do
+                local k, v = line:match("^([^=]+)=(.*)$")
+                if k and v then
+                    k, v = k:match("^%s*(.-)%s*$"), v:match("^%s*(.-)%s*$")
+                    if k == "MAX_COLA" or k == "TIEMPO_BASE" then cfg[k] = tonumber(v) or cfg[k]
+                    elseif k == "TTS_VEL" or k == "TTS_VOL" then cfg[k] = tonumber(v) or cfg[k]
+                    else cfg[k] = v end
+                end
+            end
+            f:close()
+        end
+    end)
+    return cfg
+end
+
+local function obtenerIDsPredeterminados()
+    return {
+        comentarios = {"com.zhiliaoapp.musically:id/f15", "com.zhiliaoapp.musically:id/f16"},
+        nombres = {"com.zhiliaoapp.musically:id/pj3", "com.zhiliaoapp.musically:id/pj4"},
+        eventos = {"com.zhiliaoapp.musically:id/text", "com.zhiliaoapp.musically:id/system_text"}
+    }
+end
+
+local function decodificarBase64(str)
+    local dec = nil
+    pcall(function()
+        local bytes = Base64.decode(str, Base64.DEFAULT)
+        if bytes then dec = tostring(String(bytes, "UTF-8")) end
+    end)
+    return dec or str
+end
+
+local function parsearIDs(texto)
+    local ids = { comentarios = {}, nombres = {}, eventos = {} }
+    if not texto or texto == "" then return ids end
+
+    local textoProbable = decodificarBase64(texto)
+    if textoProbable and (textoProbable:find("ID") or textoProbable:find("com.zhiliaoapp")) then
+        texto = textoProbable
+    end
+
+    for line in texto:gmatch("[^\r\n]+") do
+        line = line:match("^%s*(.-)%s*$")
+        if line ~= "" and not line:find("^#") and line ~= "---" then
+            if line:find("ID Usuario:") or line:find("^N:") then
+                local val = line:match("ID Usuario:%s*(.+)") or line:match("^N:%s*(.+)")
+                if val then table.insert(ids.nombres, val:match("^%s*(.-)%s*$")) end
+            elseif line:find("ID Comentarios:") or line:find("^C:") then
+                local val = line:match("ID Comentarios:%s*(.+)") or line:match("^C:%s*(.+)")
+                if val then table.insert(ids.comentarios, val:match("^%s*(.-)%s*$")) end
+            elseif line:find("ID Eventos:") or line:find("^E:") then
+                local val = line:match("ID Eventos:%s*(.+)") or line:match("^E:%s*(.+)")
+                if val then table.insert(ids.eventos, val:match("^%s*(.-)%s*$")) end
+            end
+        end
+    end
+
+    if #ids.comentarios == 0 and #ids.nombres == 0 and #ids.eventos == 0 then
+        return obtenerIDsPredeterminados()
+    end
+
+    return ids
+end
+
+local function sincronizarIDsSilencioso()
+    local ids = nil
+    pcall(function()
+        local url = URL(URL_MAESTRA)
+        local conn = url.openConnection()
+        conn.setConnectTimeout(2500)
+        conn.setReadTimeout(2500)
+        conn.setRequestMethod("GET")
+        conn.setInstanceFollowRedirects(true)
+        
+        local is = conn.getInputStream()
+        local reader = BufferedReader(InputStreamReader(is, "UTF-8"))
+        local sb = {}
+        local line = reader.readLine()
+        while line ~= nil do
+            table.insert(sb, tostring(line))
+            line = reader.readLine()
+        end
+        reader.close()
+        is.close()
+        
+        local txtCompleto = table.concat(sb, "\n")
+        ids = parsearIDs(txtCompleto)
+    end)
+    
+    if not ids or (#ids.comentarios == 0 and #ids.nombres == 0 and #ids.eventos == 0) then
+        ids = obtenerIDsPredeterminados()
+    end
+    return ids
+end
+
+local function cargarIDsRemotosAsync(alFinalizar)
+    Thread(Runnable({
+        run = function()
+            local ids = sincronizarIDsSilencioso()
+            _G.TikTok_IDs = ids
+            if alFinalizar then
+                pcall(function() alFinalizar() end)
+            end
+        end
+    })).start()
+end
+
+if _G.TikTokMonitoreando == nil then _G.TikTokMonitoreando = false end
+if not _G.TikTokHandler then _G.TikTokHandler = Handler(Looper.getMainLooper()) end
+
+local function vibrar()
+    pcall(function()
+        local ctx = service or activity
+        if ctx then
+            local v = ctx.getSystemService(Context.VIBRATION_SERVICE)
+            if v then v.vibrate(25) end
+        end
+    end)
+end
+
+local function hablar(texto)
+    pcall(function()
+        if _G.CommenTikTTS and _G.CommenTikTTS_Listo then
+            local vol = _G.TikTok_Cfg and _G.TikTok_Cfg.TTS_VOL or 1.0
+            local params = HashMap()
+            params.put("volume", tostring(vol))
+            _G.CommenTikTTS.speak(texto, TextToSpeech.QUEUE_ADD, params)
+        elseif service then
+            if service.speak then service.speak(texto)
+            elseif service.postExecute then service.postExecute(texto) end
+        end
+    end)
+end
+
+local function inicializarTTSSecundario(paqueteEngine, velocidad, volumen, alConcluir)
+    local ctx = service or activity
+    if not ctx then return end
+    pcall(function()
+        if _G.CommenTikTTS then _G.CommenTikTTS.stop(); _G.CommenTikTTS.shutdown(); _G.CommenTikTTS = nil end
+    end)
+    if paqueteEngine and paqueteEngine ~= "default" then
+        pcall(function()
+            local listener = luajava.createProxy("android.speech.tts.TextToSpeech$OnInitListener", {
+                onInit = function(status) 
+                    if status == TextToSpeech.SUCCESS then 
+                        _G.CommenTikTTS_Listo = true 
+                        pcall(function() _G.CommenTikTTS.setSpeechRate(velocidad) end)
+                    end 
+                end
+            })
+            _G.CommenTikTTS = TextToSpeech(ctx, listener, paqueteEngine)
+        end)
+    else
+        _G.CommenTikTTS_Listo = false
+    end
+    if alConcluir then alConcluir() end
+end
+
+local function procesarCola()
+    if not _G.TikTokMonitoreando then return end
+    if _G.ColaComentarios and #_G.ColaComentarios > 0 then
+        local max = _G.TikTok_Cfg.MAX_COLA or 10
+        while #_G.ColaComentarios > max do table.remove(_G.ColaComentarios, 1) end
+
+        local msg = table.remove(_G.ColaComentarios, 1)
+        hablar(msg)
+
+        local factor, base = 75, _G.TikTok_Cfg.TIEMPO_BASE or 2000
+        if #_G.ColaComentarios > 3 then factor, base = math.floor(factor * 0.8), math.floor(base * 0.8) end
+        
+        local espera = math.max(1500, (#msg * factor) + base)
+        _G.TikTokHandler.postDelayed(luajava.createProxy("java.lang.Runnable", { run = function() procesarCola() end }), espera)
+    else
+        _G.TikTokHandler.postDelayed(luajava.createProxy("java.lang.Runnable", { run = function() procesarCola() end }), 500)
+    end
+end
+
+local function contienePalabraProhibida(mensaje, listaNegra)
+    if not listaNegra or listaNegra == "" then return false end
+    local msgLower = mensaje:lower()
+    for palabra in string.gmatch(listaNegra, "([^,]+)") do
+        palabra = palabra:match("^%s*(.-)%s*$")
+        if palabra ~= "" and msgLower:find(palabra:lower(), 1, true) then return true end
+    end
+    return false
+end
+
+local function aplicarFiltroRepeticion(texto)
+    if not _G.TikTok_Cfg or _G.TikTok_Cfg.FILTRO_REPETICION ~= "true" then return texto end
+    local res = texto
+    pcall(function()
+        res = res:gsub("(%S+)%s+%1%s+%1%s+(%1%s*)+", "%1 %1 %1 ")
+        res = res:gsub("(%S)%1%1%1+", "%1%1%1")
+    end)
+    return res
+end
+
+local function obtenerNombreUsuario(nodoPadre)
+    if not nodoPadre then return "Alguien" end
+    local res = "Alguien"
+    pcall(function()
+        if _G.TikTok_IDs and _G.TikTok_IDs.nombres then
+            for _, idN in ipairs(_G.TikTok_IDs.nombres) do
+                local nodos = nodoPadre.findAccessibilityNodeInfosByViewId(idN)
+                if nodos and not nodos.isEmpty() then
+                    local n = nodos.get(0)
+                    if n then
+                        local txt = n.getText()
+                        if txt and tostring(txt) ~= "" then 
+                            res = tostring(txt) 
+                            pcall(function() n.recycle() end)
+                            break 
+                        end
+                        pcall(function() n.recycle() end)
+                    end
+                end
+            end
+        end
+    end)
+    return res
+end
+
+local function procesarNodoComentario(nodoItem)
+    if not nodoItem or not _G.TikTokMonitoreando then return end
+    pcall(function()
+        local txt = nodoItem.getText()
+        if not txt then return end
+        local msg = tostring(txt)
+        if #msg > 0 then
+            if contienePalabraProhibida(msg, _G.TikTok_Cfg.LISTA_NEGRA) then return end
+            msg = aplicarFiltroRepeticion(msg)
+            
+            if not _G.comentarios_leidos then _G.comentarios_leidos = {} end
+            if _G.comentarios_leidos[msg] then return end
+            
+            local padre = nodoItem.getParent()
+            local usuario = "Alguien"
+            if padre then 
+                usuario = obtenerNombreUsuario(padre)
+                pcall(function() padre.recycle() end) 
+            end
+            
+            local plantilla = _G.TikTok_Cfg.PLANTILLA or "{usuario} dice: {comentario}"
+            local frase = plantilla:gsub("{usuario}", usuario):gsub("{comentario}", msg)
+            
+            _G.comentarios_leidos[msg] = true
+            table.insert(_G.ColaComentarios, frase)
+            _G.TikTokHuboActividad = true 
+        end
+    end)
+end
+
+local function procesarNodoEvento(nodoItem)
+    if not nodoItem or not _G.TikTokMonitoreando then return end
+    pcall(function()
+        local txt = nodoItem.getText()
+        if not txt then return end
+        local msg = tostring(txt)
+        if #msg > 0 then
+            if contienePalabraProhibida(msg, _G.TikTok_Cfg.LISTA_NEGRA) then return end
+            
+            local msgLower = msg:lower()
+            local esSeguidor = msgLower:find("sigue al creador") or msgLower:find("comenzó a seguir") or msgLower:find("started following") or msgLower:find("te sigue") or msgLower:find("seguiu")
+            local esRegalo = msgLower:find("envió") or msgLower:find("sent") or msgLower:find("regalo") or msgLower:find("enviou")
+            local esUnion = msgLower:find("se unió") or msgLower:find("joined") or msgLower:find("entrou")
+            local esCompartida = msgLower:find("compartió") or msgLower:find("shared") or msgLower:find("compartilhou")
+            
+            local estaPermitido = false
+            if esSeguidor and _G.TikTok_Cfg.ANUNCIAR_SEGUIDORES == "true" then estaPermitido = true
+            elseif esRegalo and _G.TikTok_Cfg.ANUNCIAR_REGALOS == "true" then estaPermitido = true
+            elseif esUnion and _G.TikTok_Cfg.ANUNCIAR_UNIONES == "true" then estaPermitido = true
+            elseif esCompartida and _G.TikTok_Cfg.ANUNCIAR_COMPARTIDAS == "true" then estaPermitido = true
+            end
+            
+            if not estaPermitido then return end
+            
+            if not _G.comentarios_leidos then _G.comentarios_leidos = {} end
+            if _G.comentarios_leidos[msg] then return end
+            
+            _G.comentarios_leidos[msg] = true
+            table.insert(_G.ColaComentarios, msg)
+            _G.TikTokHuboActividad = true 
+        end
+    end)
+end
+
+local function hacerBarridoInicialInteligente()
+    pcall(function()
+        local rootNode = service.getRootInActiveWindow()
+        if not rootNode then return end
+        
+        local listaTemp = {}
+        
+        if _G.TikTok_IDs and _G.TikTok_IDs.comentarios then
+            for _, idC in ipairs(_G.TikTok_IDs.comentarios) do
+                local nodosC = rootNode.findAccessibilityNodeInfosByViewId(idC)
+                if nodosC and not nodosC.isEmpty() then
+                    for i = 0, nodosC.size() - 1 do
+                        local n = nodosC.get(i)
+                        if n then
+                            local txt = n.getText()
+                            if txt and tostring(txt) ~= "" then
+                                table.insert(listaTemp, { nodo = n, texto = tostring(txt), tipo = "comentario" })
+                            else
+                                pcall(function() n.recycle() end)
+                            end
+                        end
+                    end
+                end
+            end
+        end
+        
+        if _G.TikTok_IDs and _G.TikTok_IDs.eventos then
+            for _, idE in ipairs(_G.TikTok_IDs.eventos) do
+                local nodosE = rootNode.findAccessibilityNodeInfosByViewId(idE)
+                if nodosE and not nodosE.isEmpty() then
+                    for i = 0, nodosE.size() - 1 do
+                        local n = nodosE.get(i)
+                        if n then
+                            local txt = n.getText()
+                            if txt and tostring(txt) ~= "" then
+                                table.insert(listaTemp, { nodo = n, texto = tostring(txt), tipo = "evento" })
+                            else
+                                pcall(function() n.recycle() end)
+                            end
+                        end
+                    end
+                end
+            end
+        end
+        
+        local count = #listaTemp
+        if count > 0 then
+            for idx = 1, count - 1 do
+                _G.comentarios_leidos[listaTemp[idx].texto] = true
+                pcall(function() listaTemp[idx].nodo.recycle() end)
+            end
+            local ultimo = listaTemp[count]
+            if ultimo.tipo == "comentario" then
+                procesarNodoComentario(ultimo.nodo)
+            else
+                procesarNodoEvento(ultimo.nodo)
+            end
+            pcall(function() ultimo.nodo.recycle() end)
+        end
+        
+        pcall(function() rootNode.recycle() end)
+    end)
+end
+
+local function escanearChatPreciso()
+    if not _G.TikTokMonitoreando then return end
+    _G.TikTokHuboActividad = false
+    
+    pcall(function()
+        local rootNode = service.getRootInActiveWindow()
+        if not rootNode then return end
+        
+        if _G.TikTok_IDs and _G.TikTok_IDs.comentarios then
+            for _, idC in ipairs(_G.TikTok_IDs.comentarios) do
+                local nodosC = rootNode.findAccessibilityNodeInfosByViewId(idC)
+                if nodosC and not nodosC.isEmpty() then
+                    for i = 0, nodosC.size() - 1 do
+                        local n = nodosC.get(i)
+                        if n then procesarNodoComentario(n); pcall(function() n.recycle() end) end
+                    end
+                end
+            end
+        end
+        
+        if _G.TikTok_IDs and _G.TikTok_IDs.eventos then
+            for _, idE in ipairs(_G.TikTok_IDs.eventos) do
+                local nodosE = rootNode.findAccessibilityNodeInfosByViewId(idE)
+                if nodosE and not nodosE.isEmpty() then
+                    for i = 0, nodosE.size() - 1 do
+                        local n = nodosE.get(i)
+                        if n then procesarNodoEvento(n); pcall(function() n.recycle() end) end
+                    end
+                end
+            end
+        end
+        
+        pcall(function() rootNode.recycle() end)
+    end)
+
+    if _G.TikTokHuboActividad then 
+        _G.TikTokCiclosInactivos = 0
+    else 
+        _G.TikTokCiclosInactivos = (_G.TikTokCiclosInactivos or 0) + 1 
+    end
+
+    local tiempoSiguiente = 1000
+    if _G.TikTokCiclosInactivos > 20 then 
+        tiempoSiguiente = 3500
+    elseif _G.TikTokCiclosInactivos > 5 then 
+        tiempoSiguiente = 2000
+    end
+
+    _G.TikTokHandler.postDelayed(luajava.createProxy("java.lang.Runnable", { run = function() escanearChatPreciso() end }), tiempoSiguiente)
+end
+
+vibrar()
+
+if _G.TikTokMonitoreando then
+    -- DESACTIVACIÓN Y LIMPIEZA ABSOLUTA DE RECURSOS (RAM Y BATERÍA)
+    _G.TikTokMonitoreando = false
+    pcall(function() _G.TikTokHandler.removeCallbacksAndMessages(nil) end)
+    pcall(function() if _G.CommenTikTTS then _G.CommenTikTTS.stop(); _G.CommenTikTTS.shutdown(); _G.CommenTikTTS = nil end end)
+    _G.CommenTikTTS_Listo = nil
+    _G.comentarios_leidos = nil
+    _G.ColaComentarios = nil
+    _G.TikTokCiclosInactivos = nil
+    _G.TikTokHuboActividad = nil
+    _G.TikTok_Cfg = nil
+    _G.TikTok_IDs = nil
+    collectgarbage("collect")
+    hablar("Desactivado por Iván Búho")
+else
+    -- ACTIVACIÓN E INICIALIZACIÓN SINCRONIZADA Y SILENCIOSA
+    _G.TikTokMonitoreando = true
+    _G.TikTok_Cfg = cargarConfiguracion()
+    _G.comentarios_leidos = {}
+    _G.ColaComentarios = {}
+    _G.TikTokCiclosInactivos = 0
+
+    inicializarTTSSecundario(_G.TikTok_Cfg.TTS, _G.TikTok_Cfg.TTS_VEL, _G.TikTok_Cfg.TTS_VOL, function()
+        hablar("Activado por Iván Búho")
+        
+        cargarIDsRemotosAsync(function()
+            hacerBarridoInicialInteligente()
+            _G.TikTokHandler.postDelayed(luajava.createProxy("java.lang.Runnable", {
+                run = function() if _G.TikTokMonitoreando then escanearChatPreciso(); procesarCola() end end
+            }), 1500)
+        end)
+    end)
+end
