@@ -15,6 +15,13 @@ Descripcion: Este es el panel de nuestro lector de comentarios de TikTok, desde 
 Recomendación; Cuando ejecutes el panel para configurar o cambiar una configuración del lector de comentarios, tienes que previamente tener desactivado el acceso directo para que se apliquen las configuraciones. Una vez hagas las configuraciones y dess a guardar, puedes activar nuevamente el lector de comentarios a través del otro acceso.
 Cambios: Se agregó soporte a más dispositivos para correcto funcionamiento. Se agregó soporte en idioma portugués para poder ser utilizado. Se agregaron funcionalidades adicionales en el panel de configuración con opciones como leer quién se une a la transmisión y quién comparte la transmisión.
 ---
+Nombre: Dictado Flash
+Version: 3.0
+Autor: Iván Búho
+Ejecutable: dictado_flash.lua
+Descripcion: Este dictado se alimenta de la Inteligencia artificial; con el proveedor Groq. Tendrás múltiples configuraciones y la posibilidad de que te asigne signos de puntuación automáticamente. Requiere clave API; , es independiente al dictado flash Mistral.
+Cambios: 
+---
 Nombre: Grabadora Flash
 Version: 1.2
 Autor: Iván Búho
