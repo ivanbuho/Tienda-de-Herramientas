@@ -2,10 +2,12 @@ Nombre: Libreta X
 Version: 1.8.4
 Autor: Eco Accesible
 Ejecutable: libreta_x.lua
-Descripcion: Llegó Libreta X 1.8.4
+Descripcion: Les presentamos Libreta X.
+Un complemento creado para llevar tu organización al siguiente nivel. Ordená categorías y notas de forma independiente y compartí tus notas como texto o archivo TXT en segundos. Potenciado con memoria de preferencias, respaldo de notas, contador de palabras y caracteres, vista previa inteligente, dictado por voz y un buscador mejorado que encuentra todo al instante.
+Más rápido, más completo, más tuyo.
+Cambios: Llegó Libreta X 1.8.4
 Sumamos varias mejoras útiles: ordenamiento independiente para categorías y notas, opción para compartir como texto o archivo TXT, barra de botones con desplazamiento, memoria de preferencias, respaldo de notas, contador de palabras y caracteres, vista previa en lista, dictado por voz y buscador mejorado.
 Gracias a Mr Plugin por acompañarnos en esta versión.
-Cambios: 
 ---
 Nombre: Gestor Eco Accesible
 Version: 0.1
