@@ -16,3 +16,8 @@ Descripcion: Sou Dr mario, criador da comunidade Jieshuo Blues, dedicada à aces
 Id: jieshuo_blues
 Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Jieshuo%20Blues/Herramientas.txt
 ---
+Nombre: Mateo Huamán
+Descripcion: Me apasiona desarrollar complementos para el lector de pantalla chino, con el objetivo de ampliar sus funcionalidades y facilitar el acceso a los usuarios que lo emplean. Mi trabajo consiste en identificar las funciones faltantes y diseñar extensiones que mejoren la experiencia de uso. Busco aportar soluciones que permitan a los usuarios realizar tareas adicionales de forma más eficiente y cómoda.
+Id: mateo_huaman
+Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Mateo%20Huaman/Herramientas.txt
+---
