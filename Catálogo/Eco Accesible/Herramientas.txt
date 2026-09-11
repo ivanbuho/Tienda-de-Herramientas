@@ -1,3 +1,13 @@
+Nombre: Eco Gestor de Archivos
+Version: 1.0
+Autor: Eco Accesible
+Ejecutable: eco_gestor_archivos.lua
+Descripcion: El gestor que estabas esperando llegó.
+Cansado de lo mismo de siempre? Entrá a una experiencia distinta, donde gestionar tu dispositivo se convierte en recorrer tu propio edificio. Cada piso, una carpeta. Cada decisión, tuya.
+Compartí individual o en bloques, mové, copiá, reproducí y abrí todo sin complicaciones y con accesibilidad total.
+Tu edificio, tus reglas.
+Cambios: 
+---
 Nombre: Libreta X
 Version: 1.8.4
 Autor: Eco Accesible
