@@ -1,4 +1,4 @@
 titulo: Atención.
-mensaje: ¡A nuestra tienda de herramientas acaba de aterrizar la comunidad, Eco Accesible! Bienvenidos, y gracias por estar aquí. A todos los usuarios: disfruten sus herramientas, complementos y facilidades.
-activo: no
+mensaje: ¡Nuevos creadores en nuestra tienda de herramientas, bienvenidos! Y gracias por el voto de confianza. A todos nuestros usuarios, recomendamos ir a la sección de ajustes de la tienda de herramientas y leer los términos y condiciones; es indispensable que lo hagan. ¡Saludos!
+activo: si
 ---
