@@ -1,3 +1,12 @@
+Nombre: Mis Claves y Enlaces
+Version: 1.0
+Autor: Eco Accesible
+Ejecutable: mis_claves_enlaces.lua
+Descripcion: Te presentamos Mis Claves y Enlaces de EcoAccesible.
+El complemento definitivo para tener todo a mano y dejar de perder tiempo. Acá tenés en un solo lugar todas tus claves de Inteligencias Artificiales y tus enlaces favoritos, organizados como vos querés.
+Renombralas, movelas de categoría, compartilas, copialas al portapapeles y tené el control total. Simple, rápido y con una accesibilidad que realmente funciona.
+Cambios: 
+---
 Nombre: Eco Gestor de Archivos
 Version: 1.0
 Autor: Eco Accesible
