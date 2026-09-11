@@ -1,1 +1,7 @@
-si
+Nombre: Dictado Indomable
+Version: 1.0
+Autor: Mateo Huaman
+Ejecutable: dictado_indomable.lua
+Descripcion: Dictado Indomable es un complemento de procesamiento de voz y asistencia de redacción mediante Inteligencia Artificial. Permite al usuario dictar texto y procesarlo en tiempo real a través de modelos de IA como Gemini, Groq y Mistral. Su función principal es corregir la fluidez del texto, eliminar repeticiones o muletillas, aplicar diferentes tonos de escritura, realizar traducciones instantáneas y adaptar el contenido a distintos formatos (resumen o expansión) de manera automatizada.
+Cambios: 
+---
