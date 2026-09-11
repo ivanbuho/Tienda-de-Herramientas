@@ -1,1 +1,15 @@
-si
+Nombre: Grabadora bien random. Por Jieshuo Alberto.
+Version: 1.0
+Autor: Jieshuo Alberto Oficial
+Ejecutable: grabadora_bien_random.lua
+Descripcion: ​Este complemento funciona de forma secuencial: al ejecutarlo por primera vez, inicia la grabación y un mensaje TTS dirá "Grabadora random iniciada". Al volver a ejecutarlo, se detiene la grabación, la cual genera un nombre automáticamente en formato MP3 y se guarda en la carpeta de descargas de tu gestor de archivos. Al finalizar, el TTS dirá "Grabadora random finalizada" y se abrirá un menú en pantalla con las siguientes opciones:
+​Ver la duración del audio.
+​Pausar.
+​Quitar la pausa.
+​Eliminar el audio.
+​Eliminar todos los audios de la carpeta interna.
+​Compartir el audio.
+​Botón de vibración para activar o desactivar la respuesta háptica al iniciar y finalizar la grabación.
+​Al abrir el complemento por primera vez, el sistema solicitará seleccionar un idioma. Una vez elegido, se desplegará un diálogo con la bienvenida e instrucciones de uso. Además, se incluye un botón para unirse a la comunidad mediante el grupo o el canal oficial.
+Cambios: 
+---
