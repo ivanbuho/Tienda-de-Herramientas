@@ -21,3 +21,9 @@ Descripcion: Me apasiona desarrollar complementos para el lector de pantalla chi
 Id: mateo_huaman
 Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Mateo%20Huaman/Herramientas.txt
 ---
+Nombre: Jieshuo Alberto Oficial
+Descripcion: Hola; soy Alberto. Desarroyo complementos bien random, pero siempre buscando ayudarles a mejorar el acceso a distintas utilidades.
+mi propósito es aportar algo a la comunidad; Por eso siempre recibo sugerencias peticiones he ideas; con esa misma disposición estoy para ayudarlos.
+Id: jieshuo_alberto
+Url_catalogo: https://github.com/ivanbuho/Tienda-de-Herramientas/raw/refs/heads/main/Cat%C3%A1logo/Jieshuo%20Alberto%20Oficial/Herramientas.txt
+---
