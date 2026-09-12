@@ -1,3 +1,13 @@
+Nombre: Lupa - ecoaccesible
+Version: 9.0
+Autor: Eco Accesible
+Ejecutable: lupa_ecoaccesible.lua
+Descripcion: El buscador de contactos que estabas esperando llegó.
+¿Perdiendo tiempo buscando contactos? Se terminó. Encontrá a quien buscás en segundos y contactalo al instante por WhatsApp o con una llamada, sin pasos intermedios.
+WhatsApp, llamada, favoritos, historial... todo en un solo lugar, de forma simple, rápida y con una accesibilidad que sí funciona.
+Y un tip: hacé un toque simple sobre el nombre del complemento para abrir el panel de copia de seguridad, o mantené presionado para abrir el tutorial de uso.
+Cambios: 
+---
 Nombre: Mis Claves y Enlaces
 Version: 1.0
 Autor: Eco Accesible
