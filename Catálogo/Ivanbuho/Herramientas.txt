@@ -15,6 +15,13 @@ Descripcion: Este es el panel de nuestro lector de comentarios de TikTok, desde 
 Recomendación; Cuando ejecutes el panel para configurar o cambiar una configuración del lector de comentarios, tienes que previamente tener desactivado el acceso directo para que se apliquen las configuraciones. Una vez hagas las configuraciones y dess a guardar, puedes activar nuevamente el lector de comentarios a través del otro acceso.
 Cambios: Se agregó soporte a más dispositivos para correcto funcionamiento. Se agregó soporte en idioma portugués para poder ser utilizado. Se agregaron funcionalidades adicionales en el panel de configuración con opciones como leer quién se une a la transmisión y quién comparte la transmisión.
 ---
+Nombre: Panel de volumen Flash
+Version: 1.0
+Autor: Iván Búho
+Ejecutable: panel_volumen_flash.lua
+Descripcion: Con este panel de volumen vas a poder administrar todos los canales de audio del dispositivo. Te servirá para aumentar o disminuir el volumen de las llamadas, el multimedia, accesibilidad, notificaciones, alarma, entre otras cosas. Te será muy útil, por ejemplo, cuando estás en una llamada y no puedes bajar o subir el volumen porque se te va todo completo. Con este panel podrás manipular el volumen de las llamadas sin afectar el multimedia o la accesibilidad, así como también mover el de multimedia sin afectar el volumen de la llamada. 
+Cambios: 
+---
 Nombre: Dictado Flash
 Version: 3.0
 Autor: Iván Búho
